@@ -39,5 +39,5 @@ The **Book Store Project** is a full-stack web application that allows users to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/hharshil1912/book-store-project.git
+   git clone https://github.com/Harshill1912/book-store-project.git
    cd book-store-project
